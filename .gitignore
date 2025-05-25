@@ -1,0 +1,25 @@
+# Dependencias
+node_modules/
+
+# Archivos de base de datos SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# Archivos de log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs
+*.log
+
+# Archivos de entorno (si los usas más adelante)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Otros
+.DS_Store
+Thumbs.db
