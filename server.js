@@ -1,3 +1,5 @@
+const db = require('./database.js'); // <--- AÑADE ESTA LÍNEA
+
 const express = require('express');
 const app = express();
 
